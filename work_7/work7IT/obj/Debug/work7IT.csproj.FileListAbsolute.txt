@@ -1,0 +1,9 @@
+E:\work7IT\work7IT\bin\Debug\work7IT.exe.config
+E:\work7IT\work7IT\bin\Debug\work7IT.exe
+E:\work7IT\work7IT\bin\Debug\work7IT.pdb
+E:\work7IT\work7IT\obj\Debug\work7IT.csprojAssemblyReference.cache
+E:\work7IT\work7IT\obj\Debug\work7IT.Form1.resources
+E:\work7IT\work7IT\obj\Debug\work7IT.Properties.Resources.resources
+E:\work7IT\work7IT\obj\Debug\work7IT.csproj.GenerateResource.cache
+E:\work7IT\work7IT\obj\Debug\work7IT.exe
+E:\work7IT\work7IT\obj\Debug\work7IT.pdb

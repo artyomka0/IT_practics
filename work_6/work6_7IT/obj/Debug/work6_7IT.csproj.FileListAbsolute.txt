@@ -1,0 +1,9 @@
+E:\work6_7IT\work6_7IT\obj\Debug\work6_7IT.csprojAssemblyReference.cache
+E:\work6_7IT\work6_7IT\obj\Debug\work6_7IT.Form1.resources
+E:\work6_7IT\work6_7IT\obj\Debug\work6_7IT.Properties.Resources.resources
+E:\work6_7IT\work6_7IT\obj\Debug\work6_7IT.csproj.GenerateResource.cache
+E:\work6_7IT\work6_7IT\bin\Debug\work6_7IT.exe.config
+E:\work6_7IT\work6_7IT\bin\Debug\work6_7IT.exe
+E:\work6_7IT\work6_7IT\bin\Debug\work6_7IT.pdb
+E:\work6_7IT\work6_7IT\obj\Debug\work6_7IT.exe
+E:\work6_7IT\work6_7IT\obj\Debug\work6_7IT.pdb

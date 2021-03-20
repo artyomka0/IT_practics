@@ -1,0 +1,9 @@
+E:\work_8IT\work_8IT\bin\Debug\work_8IT.exe.config
+E:\work_8IT\work_8IT\bin\Debug\work_8IT.exe
+E:\work_8IT\work_8IT\bin\Debug\work_8IT.pdb
+E:\work_8IT\work_8IT\obj\Debug\work_8IT.csprojAssemblyReference.cache
+E:\work_8IT\work_8IT\obj\Debug\work_8IT.Form1.resources
+E:\work_8IT\work_8IT\obj\Debug\work_8IT.Properties.Resources.resources
+E:\work_8IT\work_8IT\obj\Debug\work_8IT.csproj.GenerateResource.cache
+E:\work_8IT\work_8IT\obj\Debug\work_8IT.exe
+E:\work_8IT\work_8IT\obj\Debug\work_8IT.pdb

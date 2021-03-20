@@ -1,0 +1,9 @@
+E:\work10IT\work10IT\obj\Debug\work10IT.csprojAssemblyReference.cache
+E:\work10IT\work10IT\obj\Debug\work10IT.Form1.resources
+E:\work10IT\work10IT\obj\Debug\work10IT.Properties.Resources.resources
+E:\work10IT\work10IT\obj\Debug\work10IT.csproj.GenerateResource.cache
+E:\work10IT\work10IT\bin\Debug\work10IT.exe.config
+E:\work10IT\work10IT\bin\Debug\work10IT.exe
+E:\work10IT\work10IT\bin\Debug\work10IT.pdb
+E:\work10IT\work10IT\obj\Debug\work10IT.exe
+E:\work10IT\work10IT\obj\Debug\work10IT.pdb
