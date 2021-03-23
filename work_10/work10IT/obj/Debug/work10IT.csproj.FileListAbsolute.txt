@@ -7,3 +7,13 @@ E:\work10IT\work10IT\bin\Debug\work10IT.exe
 E:\work10IT\work10IT\bin\Debug\work10IT.pdb
 E:\work10IT\work10IT\obj\Debug\work10IT.exe
 E:\work10IT\work10IT\obj\Debug\work10IT.pdb
+D:\IT_practics\work_10\work10IT\bin\Debug\work10IT.exe.config
+D:\IT_practics\work_10\work10IT\bin\Debug\work10IT.exe
+D:\IT_practics\work_10\work10IT\bin\Debug\work10IT.pdb
+D:\IT_practics\work_10\work10IT\obj\Debug\work10IT.csprojAssemblyReference.cache
+D:\IT_practics\work_10\work10IT\obj\Debug\work10IT.Form1.resources
+D:\IT_practics\work_10\work10IT\obj\Debug\work10IT.Properties.Resources.resources
+D:\IT_practics\work_10\work10IT\obj\Debug\work10IT.csproj.GenerateResource.cache
+D:\IT_practics\work_10\work10IT\obj\Debug\work10IT.csproj.CoreCompileInputs.cache
+D:\IT_practics\work_10\work10IT\obj\Debug\work10IT.exe
+D:\IT_practics\work_10\work10IT\obj\Debug\work10IT.pdb
