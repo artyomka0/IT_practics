@@ -13,7 +13,6 @@ namespace work_11
   public partial class Form1 : Form
   {
 
-    private Point PreviousPoint, point;
     private Bitmap bmp;
     private Pen blackPen;
     private Graphics g;
@@ -97,13 +96,15 @@ namespace work_11
           int R = bmp.GetPixel(i, j).R;
           int G = bmp.GetPixel(i, j).G;
           int B = bmp.GetPixel(i, j).B;
-          if (B > 50 && G  < 25 && R < 25 )
+
+          if (B > 50 && G  < 30 && R < 30 )
           {
             Color p = Color.FromArgb(255, 0, 0);
             bmp.SetPixel(i, j, p);
           }
-          label2.Text = "Task complite!";
+          
         }
+      label2.Text = "Task complite!";
       Refresh();
     }
 
