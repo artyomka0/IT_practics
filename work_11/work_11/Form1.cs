@@ -97,9 +97,9 @@ namespace work_11
           int G = bmp.GetPixel(i, j).G;
           int B = bmp.GetPixel(i, j).B;
 
-          if (B > 50 && G  < 30 && R < 30 )
+          if (B < 5 && G < 5 && R < 5 )
           {
-            Color p = Color.FromArgb(255, 0, 0);
+            Color p = Color.FromArgb(1, 1, 1);
             bmp.SetPixel(i, j, p);
           }
           

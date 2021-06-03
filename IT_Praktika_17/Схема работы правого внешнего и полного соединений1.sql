@@ -1,0 +1,3 @@
+select HumanResources.EmployeeDepartmentHistory.StartDate, HumanResources.Employee.NationalIDNumber
+from HumanResources.EmployeeDepartmentHistory inner join HumanResources.Employee 
+on HumanResources.EmployeeDepartmentHistory.StartDate = HumanResources.Employee.HireDate

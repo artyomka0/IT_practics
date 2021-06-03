@@ -1,0 +1,10 @@
+select HumanResources.EmployeeDepartmentHistory.StartDate, HumanResources.Employee.NationalIDNumber, HumanResources.Department.GroupName, HumanResources.Shift.Name, HumanResources.Shift.EndTime
+from HumanResources.EmployeeDepartmentHistory 
+inner join HumanResources.Employee
+on HumanResources.EmployeeDepartmentHistory.StartDate = HumanResources.Employee.HireDate
+left outer join HumanResources.EmployeePayHistory
+on HumanResources.EmployeeDepartmentHistory.BusinessEntityID = HumanResources.EmployeeDepartmentHistory.BusinessEntityID
+inner join HumanResources.Department
+on HumanResources.Department.GroupName=HumanResources.Department.GroupName
+inner join HumanResources.Shift
+on HumanResources.Shift.Name=HumanResources.Shift.Name
